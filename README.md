@@ -64,4 +64,9 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
-- This project was inspired by casino games and wheel of fortune mechanics.
+- This project was inspired by casino games and wheel of fortune mechanics
+  
+# Screenshots
+<img src="https://github.com/IPH-Technologies-Pvt-Ltd/CasinoApp-iOS/blob/main/ezgif.com-optimize.gif" 
+     width="200" 
+     height="400"/>
