@@ -1,4 +1,5 @@
 # Casino App iOS Project
+[![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://swift.org/)
 
 This project is an iOS application that simulates a casino wheel rotation. It provides a realistic spinning animation and allows users to interact with the wheel.
 
